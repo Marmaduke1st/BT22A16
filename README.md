@@ -8,6 +8,6 @@ After much trial and error, I've manage to find the command that work with these
 "AT+A3" = Relay 1 Off,
 
 The letter change to represent the relay:
-AT+A* = Relay 1
-AT+B* = Relat 2 
+AT+A* = Relay 1, 
+AT+B* = Relay 2 
 and so on
